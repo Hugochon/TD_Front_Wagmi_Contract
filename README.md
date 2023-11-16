@@ -1,3 +1,15 @@
+This is a part of my work on the TD_Front_Wagmi project.
+
+This is the code I have deployed on Goerli with Foundry.
+
+The Front-End of the project is deployed at that [link](https://td-front-wagmi-git-main-hugochon.vercel.app/).
+
+And the code is available [there](https://github.com/Hugochon/TD_Front_Wagmi).
+
+Address of the contract : ```0xdfe95facf0Cac0211742814BD7e1A434Be6C35A4```
+
+---------------------
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
